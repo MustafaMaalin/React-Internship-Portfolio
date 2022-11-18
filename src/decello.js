@@ -41,7 +41,7 @@ const Decello = () => {
             Uit deze probleemstelling is een deliverable gerealiseerd: (zie de link naar het PWA design.)
           </p>
         </div>
-        <a className="text-[#FFFFFF] border-2 px-6 py-3 my-2 flex items-center hover:bg-[#8F805F] hover:border-[#8F805F] ease-in duration-300">
+        <a href="https://www.figma.com/file/659DqAy7A14djZfNG7VFeB/PWA-FINAL?t=twy1zFmbKFKsfWfA-6" target="_blank" className="text-[#FFFFFF] border-2 px-6 py-3 my-2 flex items-center hover:bg-[#8F805F] hover:border-[#8F805F] ease-in duration-300">
           <Link to="work" smooth={true} duration={500}>
             PWA Design
           </Link>
